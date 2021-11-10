@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://raw.githubusercontent.com/Aviortheking/codestats-readme/master/.github/logo.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://raw.githubusercontent.com/Denchyaknow/codestats-readme/master/.github/logo.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Code::Stats Readme</h2>
  <p align="center">Get dynamically generated Code::Stats stats on your readmes!</p>
 </p>
@@ -22,18 +22,18 @@ Change the `?username=` value to your GitHub's username.
 [![Avior's code::stats stats](https://codestats-readme.vercel.app/api?username=aviortheking)](https://github.com/Aviortheking/codestats-readme)
 ```
 
-[![Avior's code::stats stats](https://codestats-readme.vercel.app/api?username=aviortheking)](https://github.com/Aviortheking/codestats-readme)
+[![Avior's code::stats stats](https://codestats-readme.vercel.app/api?username=denchyaknow)](https://github.com/Denchyaknow/codestats-readme)
 
 ### Options
 
 | Option Name | Preview                                                                                         | Description                                                 |
 | ----------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| hide        | ![](https://codestats-readme.vercel.app/api?username=aviortheking&hide=xp)                      | Hide specific line, ex: `&hide=xp` or `&hide=xp,recent_xp`  |
-| show_icons  | ![](https://codestats-readme.vercel.app/api?username=aviortheking&show_icons)                   | shows icons before each lines ex: `&show_icons`             |
-| hide_rank   | ![](https://codestats-readme.vercel.app/api?username=aviortheking&hide_rank)                    | hide the rank circle ex: `&hide_rank`                       |
-| line_height | ![](https://codestats-readme.vercel.app/api?username=aviortheking&line_height=45)               | change the line Height of each lines, ex: `&line_height=45` |
-| icon_color  | ![](https://codestats-readme.vercel.app/api?username=aviortheking&icon_color=123456&show_icons) | change the icons color, ex: `&icon_color=123456&show_icons` |
-| text_color  | ![](https://codestats-readme.vercel.app/api?username=aviortheking&text_color=123456)            | change the text colors, ex: `&text_color=123456`            |
+| hide        | ![](https://codestats-readme.vercel.app/api?username=denchyaknow&hide=xp)                      | Hide specific line, ex: `&hide=xp` or `&hide=xp,recent_xp`  |
+| show_icons  | ![](https://codestats-readme.vercel.app/api?username=denchyaknow&show_icons)                   | shows icons before each lines ex: `&show_icons`             |
+| hide_rank   | ![](https://codestats-readme.vercel.app/api?username=denchyaknow&hide_rank)                    | hide the rank circle ex: `&hide_rank`                       |
+| line_height | ![](https://codestats-readme.vercel.app/api?username=denchyaknow&line_height=45)               | change the line Height of each lines, ex: `&line_height=45` |
+| icon_color  | ![](https://codestats-readme.vercel.app/api?username=denchyaknow&icon_color=123456&show_icons) | change the icons color, ex: `&icon_color=123456&show_icons` |
+| text_color  | ![](https://codestats-readme.vercel.app/api?username=denchyaknow&text_color=123456)            | change the text colors, ex: `&text_color=123456`            |
 
 # History Card
 
@@ -47,21 +47,21 @@ Endpoint: `api/history?username=Aviortheking`
 [![History](https://codestats-readme.vercel.app/api/history/?username=Aviortheking)](https://github.com/aviortheking/codestats-readme)
 ```
 
-[![History](https://codestats-readme.vercel.app/api/history/?username=Aviortheking)](https://github.com/aviortheking/codestats-readme)
+[![History](https://codestats-readme.vercel.app/api/history/?username=Denchyaknow)](https://github.com/denchyaknow/codestats-readme)
 
 ### Options
 
 | Option Name    | Preview                                                                                                 | Description                                                                                                 |
 | -------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| layout         | ![](https://codestats-readme.vercel.app/api/history?username=Aviortheking&layout=horizontal)            | Change the layout to the horizontal one<br />ex: `&layout=horizontal`                                       |
-| height         | ![](https://codestats-readme.vercel.app/api/history?username=Aviortheking&height=400&layout=horizontal) | Change the height of the card _Only on horizontal layout_<br />ex: `&height=400`<br />Default: `300`        |
-| width          | ![](https://codestats-readme.vercel.app/api/history?username=Aviortheking&width=400)                    | Change the width of the card _Only on vertical layout_<br />ex: `&width=TypeScript`<br />Default: `500`     |
-| title          | ![](https://codestats-readme.vercel.app/api/history?username=Aviortheking&title=History)                | Change the title of the card<br />ex: `&title=History`                                                      |
-| days_count     | ![](https://codestats-readme.vercel.app/api/history?username=Aviortheking&days_count=7)                 | Change the number of days shown<br />ex: `&days_count=7` <br />Default: `14`                                |
-| reverse_order  | ![](https://codestats-readme.vercel.app/api/history?username=Aviortheking&reverse_order)                | Reverse the order of the days<br />ex: `&reverse_order`                                                     |
-| hide           | ![](https://codestats-readme.vercel.app/api/history?username=Aviortheking&hide=Typescript)              | Hide specifics languages and put them in Others<br />ex: `&hide=TypeScript`                                 |
-| language_count | ![](https://codestats-readme.vercel.app/api/history?username=Aviortheking&language_count=3)             | Change the number of languages shown before going to Others<br />ex: `&language_count=3`<br />defaults: `8` |
-| text_color     | ![](https://codestats-readme.vercel.app/api/history?username=Aviortheking&text_color=654321)            | change the text colors<br />ex: `&text_color=654321`                                                        |
+| layout         | ![](https://codestats-readme.vercel.app/api/history?username=Denchyaknow&layout=horizontal)            | Change the layout to the horizontal one<br />ex: `&layout=horizontal`                                       |
+| height         | ![](https://codestats-readme.vercel.app/api/history?username=Denchyaknow&height=400&layout=horizontal) | Change the height of the card _Only on horizontal layout_<br />ex: `&height=400`<br />Default: `300`        |
+| width          | ![](https://codestats-readme.vercel.app/api/history?username=Denchyaknow&width=400)                    | Change the width of the card _Only on vertical layout_<br />ex: `&width=TypeScript`<br />Default: `500`     |
+| title          | ![](https://codestats-readme.vercel.app/api/history?username=Denchyaknow&title=History)                | Change the title of the card<br />ex: `&title=History`                                                      |
+| days_count     | ![](https://codestats-readme.vercel.app/api/history?username=Denchyaknow&days_count=7)                 | Change the number of days shown<br />ex: `&days_count=7` <br />Default: `14`                                |
+| reverse_order  | ![](https://codestats-readme.vercel.app/api/history?username=Denchyaknow&reverse_order)                | Reverse the order of the days<br />ex: `&reverse_order`                                                     |
+| hide           | ![](https://codestats-readme.vercel.app/api/history?username=Denchyaknow&hide=Typescript)              | Hide specifics languages and put them in Others<br />ex: `&hide=TypeScript`                                 |
+| language_count | ![](https://codestats-readme.vercel.app/api/history?username=Denchyaknow&language_count=3)             | Change the number of languages shown before going to Others<br />ex: `&language_count=3`<br />defaults: `8` |
+| text_color     | ![](https://codestats-readme.vercel.app/api/history?username=Denchyaknow&text_color=654321)            | change the text colors<br />ex: `&text_color=654321`                                                        |
 
 # Top Languages Card
 
@@ -75,17 +75,17 @@ Endpoint: `api/top-langs?username=anuraghazra`
 [![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=aviortheking)](https://github.com/aviortheking/codestats-readme)
 ```
 
-[![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=aviortheking)](https://github.com/aviortheking/codestats-readme)
+[![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=denchyaknow)](https://github.com/denchyaknow/codestats-readme)
 
 ### Options
 
 | Option Name    | Preview                                                                                        | Description                                                                                                 |
 | -------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| hide           | ![](https://codestats-readme.vercel.app/api/top-langs?username=aviortheking&hide=TypeScript)   | Hide Specific language<br />ex: `&hide=TypeScript` or `&hide=TypeScript,TypeScript%20(JSX)`                 |
-| language_count | ![](https://codestats-readme.vercel.app/api/top-langs?username=aviortheking&language_count=3)  | Change the number of languages shown before going to Others<br />ex: `&language_count=3`<br />defaults: `8` |
-| card_width     | ![](https://codestats-readme.vercel.app/api/top-langs?username=aviortheking&card_width=250)    | hide the rank circle<br />ex: `&card_width=600`<br />defaults: `300`                                        |
-| layout         | ![](https://codestats-readme.vercel.app/api/top-langs?username=aviortheking&layout=compact)    | make the layout more compact<br />ex: `&layout=compact`                                                     |
-| text_color     | ![](https://codestats-readme.vercel.app/api/top-langs?username=aviortheking&text_color=654321) | change the text colors<br />ex: `&text_color=654321`                                                        |
+| hide           | ![](https://codestats-readme.vercel.app/api/top-langs?username=denchyaknow&hide=TypeScript)   | Hide Specific language<br />ex: `&hide=TypeScript` or `&hide=TypeScript,TypeScript%20(JSX)`                 |
+| language_count | ![](https://codestats-readme.vercel.app/api/top-langs?username=denchyaknow&language_count=3)  | Change the number of languages shown before going to Others<br />ex: `&language_count=3`<br />defaults: `8` |
+| card_width     | ![](https://codestats-readme.vercel.app/api/top-langs?username=denchyaknow&card_width=250)    | hide the rank circle<br />ex: `&card_width=600`<br />defaults: `300`                                        |
+| layout         | ![](https://codestats-readme.vercel.app/api/top-langs?username=denchyaknow&layout=compact)    | make the layout more compact<br />ex: `&layout=compact`                                                     |
+| text_color     | ![](https://codestats-readme.vercel.app/api/top-langs?username=denchyaknow&text_color=654321) | change the text colors<br />ex: `&text_color=654321`                                                        |
 
 # Common Options
 
