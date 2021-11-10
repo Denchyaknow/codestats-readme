@@ -19,10 +19,10 @@ Copy paste this into your markdown content, and that's it. Simple!
 Change the `?username=` value to your GitHub's username.
 
 ```md
-[![Avior's code::stats stats](https://codestats-readme.vercel.app/api?username=aviortheking)](https://github.com/Aviortheking/codestats-readme)
+[![Dencho's code::stats stats](https://codestats-readme.vercel.app/api?username=denchyaknow)](https://github.com/Denchyaknow/codestats-readme)
 ```
 
-[![Avior's code::stats stats](https://codestats-readme.vercel.app/api?username=denchyaknow)](https://github.com/Denchyaknow/codestats-readme)
+[![Dencho's code::stats stats](https://codestats-readme.vercel.app/api?username=denchyaknow)](https://github.com/Denchyaknow/codestats-readme)
 
 ### Options
 
@@ -41,10 +41,10 @@ Shows your XP history as it's shown on your profile.
 
 Copy-paste this code into your readme and change the links.
 
-Endpoint: `api/history?username=Aviortheking`
+Endpoint: `api/history?username=Denchyaknow`
 
 ```md
-[![History](https://codestats-readme.vercel.app/api/history/?username=Aviortheking)](https://github.com/aviortheking/codestats-readme)
+[![History](https://codestats-readme.vercel.app/api/history/?username=Denchyaknow)](https://github.com/denchyaknow/codestats-readme)
 ```
 
 [![History](https://codestats-readme.vercel.app/api/history/?username=Denchyaknow)](https://github.com/denchyaknow/codestats-readme)
@@ -72,7 +72,7 @@ Copy-paste this code into your readme and change the links.
 Endpoint: `api/top-langs?username=anuraghazra`
 
 ```md
-[![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=aviortheking)](https://github.com/aviortheking/codestats-readme)
+[![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=denchyaknow)](https://github.com/denchyaknow/codestats-readme)
 ```
 
 [![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=denchyaknow)](https://github.com/denchyaknow/codestats-readme)
@@ -91,22 +91,22 @@ Endpoint: `api/top-langs?username=anuraghazra`
 
 | Options Name  | Preview                                                                                | Description                                                                                                                |
 | ------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| title_color   | ![](https://codestats-readme.vercel.app/api?username=aviortheking&title_color=654321)  | Change the title color<br />ex: `&title_color=654321`                                                                      |
-| bg_color      | ![](https://codestats-readme.vercel.app/api?username=aviortheking&bg_color=654321)     | Change the background color<br />ex: `&bg_color=654321`                                                                    |
-| hide_border   | ![](https://codestats-readme.vercel.app/api?username=aviortheking&hide_border)         | Hide the border<br />ex: `&hide_border`                                                                                    |
-| hide_title    | ![](https://codestats-readme.vercel.app/api?username=aviortheking&hide_title)          | Hide the title<br />ex: `&hide_border`                                                                                     |
-| theme         | ![](https://codestats-readme.vercel.app/api?username=aviortheking&theme=radical)       | See [#themes](Themes)                                                                                                      |
-| cache_seconds | ![](https://codestats-readme.vercel.app/api?username=aviortheking&cache_seconds=86400) | set the cache header manually _(min: 1800, max: 86400)_<br />ex: `&cache_seconds=86400`<br />Default: `1800` or 30 minutes |
+| title_color   | ![](https://codestats-readme.vercel.app/api?username=denchyaknow&title_color=654321)  | Change the title color<br />ex: `&title_color=654321`                                                                      |
+| bg_color      | ![](https://codestats-readme.vercel.app/api?username=denchyaknow&bg_color=654321)     | Change the background color<br />ex: `&bg_color=654321`                                                                    |
+| hide_border   | ![](https://codestats-readme.vercel.app/api?username=denchyaknow&hide_border)         | Hide the border<br />ex: `&hide_border`                                                                                    |
+| hide_title    | ![](https://codestats-readme.vercel.app/api?username=denchyaknow&hide_title)          | Hide the title<br />ex: `&hide_border`                                                                                     |
+| theme         | ![](https://codestats-readme.vercel.app/api?username=denchyaknow&theme=radical)       | See [#themes](Themes)                                                                                                      |
+| cache_seconds | ![](https://codestats-readme.vercel.app/api?username=denchyaknow&cache_seconds=86400) | set the cache header manually _(min: 1800, max: 86400)_<br />ex: `&cache_seconds=86400`<br />Default: `1800` or 30 minutes |
 
 With inbuilt themes you can customize the look of the card without doing any [manual customization](#customization).
 
 Use `?theme=THEME_NAME` parameter like so :-
 
 ```md
-![Aviortheking's Code::Stats stats](https://codestats-readme.vercel.app/api?username=aviortheking&show_icons=true&theme=nightowl)
+![Denchyaknow's Code::Stats stats](https://codestats-readme.vercel.app/api?username=denchyaknow&show_icons=true&theme=nightowl)
 ```
 
-![Aviortheking's Code::Stats stats](https://codestats-readme.vercel.app/api?username=aviortheking&show_icons=true&theme=nightowl)
+![Denchyaknow's Code::Stats stats](https://codestats-readme.vercel.app/api?username=denchyaknow&show_icons=true&theme=nightowl)
 
 #### All inbuilt themes :-
 
@@ -121,17 +121,17 @@ You can look at a preview for [all available themes](./themes/README.md) or chec
 You usually won't be able to layout the images side by side. To do that you can use this approach:
 
 ```md
-<a href="https://github.com/aviortheking/codestats-readme">
-  <img align="center" src="https://codestats-readme.vercel.app/api?username=aviortheking" />
+<a href="https://github.com/denchyaknow/codestats-readme">
+  <img align="center" src="https://codestats-readme.vercel.app/api?username=denchyaknow" />
 </a>
-<a href="https://github.com/aviortheking/codestats-readme">
-  <img align="center" src="https://codestats-readme.vercel.app/api/top-langs/?username=aviortheking" />
+<a href="https://github.com/denchyaknow/codestats-readme">
+  <img align="center" src="https://codestats-readme.vercel.app/api/top-langs/?username=denchyaknow" />
 </a>
 ```
 
 ## Deploy on your own Vercel instance
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Aviortheking/codestats-readme/)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Denchyaknow/codestats-readme/)
 
 <details>
  <summary><b> Guide on setting up Vercel  🔨 </b></summary>
