@@ -26,3 +26,8 @@
 # LATEST
 
 [![History](https://codestats-readme.vercel.app/api/history/?username=Denchyaknow&theme=radical&days_count=30&language_count=30)](https://github.com/Denchyaknow/codestats-readme)
+
+
+## Deploy on your own Vercel instance
+
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Denchyaknow/codestats-readme/)
